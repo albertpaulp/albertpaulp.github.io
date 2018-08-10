@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey there! I'm Albert, this is my personal blog. I write usually scribble about technology, coding and anything ranging from politics to philosophy.
+I develop/maintain software to earn my daily bread. A day dreamer, optimistic nihilist, liberal and atheist.
+I maintain this blog so that I can make notes, share, discuss the things I find interesting in life.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you want to say hi, tweet to [@albertpaulp](http://www.twitter.com/albertpaulp) or [mail](<mailto:albertpaulp@gmail.com>) me.
