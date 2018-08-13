@@ -16,9 +16,10 @@
 title: Albert Paul
 email: albertpaulp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A scribbling pad pretends like a blog.
+  Hey there! I’m Albert, this is my personal blog. I usually write about technology, coding and politics. Contents are
+  free to use unless stated otherwise.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://albertpaulp.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.albertpaulp.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: albertpaulp
 github_username:  albertpaulp
 
@@ -27,6 +28,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
+permalink: none
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
