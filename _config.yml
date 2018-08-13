@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Albert Paul
-email: albertpaulp@gmail.com
+email: albertpaulp(@)gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there! I’m Albert, this is my personal blog. I usually write about technology, coding and politics. Contents are
   free to use unless stated otherwise.
