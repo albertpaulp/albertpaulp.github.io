@@ -70,4 +70,4 @@ _Once everything is done, it'll look something like this,_
 
 Enjoy your new shiny, slick and secure blog !! :collision:
 
-![Alt Text](https://media.giphy.com/media/3otPomFXNTRLvrhedq/giphy.gif)
+![meme](https://media.giphy.com/media/3otPomFXNTRLvrhedq/giphy.gif)
