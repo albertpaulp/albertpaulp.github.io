@@ -3,6 +3,7 @@ layout: post
 title:  "Setting up a static blog with Github Pages"
 date:   2018-08-10 14:07:23 +0530
 categories: tech
+comments: true
 ---
 
 I wanted to start blogging recently, it's been sometime since I created a blog so I've done some research to
