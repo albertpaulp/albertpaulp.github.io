@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to diagnose non-responsive process in linux"
+title:  "Linux Process management for developers"
 date:   2018-08-14 14:07:23 +0530
 categories: tech
 comments: true
