@@ -2,7 +2,8 @@
 layout: post
 title:  "Dockerize Your Rails Application !"
 date:   2018-07-15 14:07:23 +0530
-categories: blogging 
+categories: docker 
+comments: true
 ---
 
 

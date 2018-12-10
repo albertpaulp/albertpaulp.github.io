@@ -2,7 +2,8 @@
 layout: post
 title:  "Setting up RBAC for Kubernetes Cluster"
 date:   2018-10-10 14:07:23 +0530
-categories: blogging 
+categories: kubernetes
+comments: true
 ---
 
 Once you've set up Kubernetes Cluster and provisioned your applications, next in line is giving permissions to

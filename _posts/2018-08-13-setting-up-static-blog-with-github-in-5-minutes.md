@@ -45,7 +45,6 @@ All hail :octocat:.
   * Go to settings page of `your-username.github.io` repo, it should say something like _"Your site is published at
     `your-username.github.io`"_. You can try that link in your browser and make sure site is up and running.
 3. Adding a custom domain,
-  * I've bought mine from Bigrock.com, you can use any domain registrar like AWS Route 53 etc.
   * We can connect our custom domain to GitHub hosted page using 2 mechanisms(there are other options as well, but sake
     of simplicity), either using _A records_ or _CNAME_.
   * I would prefer using _CNAME_ mechanism due to various advantages over _A Records_.
