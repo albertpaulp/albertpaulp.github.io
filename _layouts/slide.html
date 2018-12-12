@@ -40,6 +40,17 @@
     <div class="reveal">
       <div class="slides">
         {{ content }}
+        <script>
+          function openFullScreen(event){
+            document.body.webkitRequestFullscreen();
+          }
+          var page = document.getElementById("body-content");
+          page.addEventListener("keydown", function (e) {
+              if (e.keyCode === 13) {
+                  openFullScreen(event);
+              }
+          });
+        </script>
       </div>
     </div>
 
