@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Demystify Kubernetes
+title: Demystifying Kubernetes
 description: Presentation about Why, What and How Kubernetes !
 theme: league
 transition: fade
@@ -111,9 +111,11 @@ category: presentation
         ### Hands On setup !
 
         - brew install docker
+        - brew install kubernetes-cli
         - brew cask install minikube
         - brew cask install virtualbox [Give permission to add virtualization driver]
         - minikube start
+        - github.com/albertpaulp/demystifying-kubernetes-demo
       </textarea>
     </section>
 
@@ -161,11 +163,13 @@ category: presentation
 
     <section data-markdown>
       <textarea data-template>
-        ### Thank You for your time :pray:
+        ### Thank You for your time 🍪
         ### Questions, keep 'em coming..
 
+        
+        Shoutouts to Mohit and Parthesh 🍻
 
-        @albertpaulp
+        <sup>@albertpaulp</sup
       </textarea>
     </section>
   </div>
